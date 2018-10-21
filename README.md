@@ -2,6 +2,7 @@ PATCHED composer.json to use guzzle 6^
 
 Add following to composer.json:
 
+``` json
 {
     "repositories": [
         {
@@ -14,10 +15,12 @@ Add following to composer.json:
         "coinbase/coinbase-commerce-php": "dev-master as v1.0.0",
     }
 }
+```
 
 Then type following:
+``` sh
 composer update coinbase-commerce-php
-
+```
 
 [![CircleCI](https://circleci.com/gh/coinbase/coinbase-commerce-php/tree/master.svg?style=svg)](https://circleci.com/gh/coinbase/coinbase-commerce-php/tree/master)
 # Coinbase Commerce
