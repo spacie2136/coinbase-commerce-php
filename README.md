@@ -1,4 +1,4 @@
-PATCHED composer.json to use gussle 6^
+PATCHED composer.json to use guzzle 6^
 
 [![CircleCI](https://circleci.com/gh/coinbase/coinbase-commerce-php/tree/master.svg?style=svg)](https://circleci.com/gh/coinbase/coinbase-commerce-php/tree/master)
 # Coinbase Commerce
